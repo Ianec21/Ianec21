@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ianec21
 - 👀 I’m interested in Lua, HTML, PHP, Javascript, C#
-- 🌱 I’m currently learning PHP and Javascript
-- 💞️ I’m looking to collaborate on MTA Projects or Game Projects
+- 🌱 I’m currently learning Javascript, python.
+- 💞️ I’m looking to collaborate on MTA Projects, Game Projects or Web Projects.
 - 📫 How to reach me: send me a mail! jizdan.ianec17@gmail.com or yanek2003j@gmail.com
 
 <!---
