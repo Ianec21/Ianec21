@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ianec21
 - 👀 I’m interested in Lua, HTML, Javascript, C#, C++, C, React, Vue, React Native
-- 🌱 I’m currently learning Golang and C++.
 - 📫 How to reach me? Send me an e-mail at jizdan.ianec17@gmail.com or yanek2003j@gmail.com !
 
 <!---
